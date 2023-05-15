@@ -42,7 +42,7 @@ if delta<0:
     print("A equação não possui raízes reais")   
 
 elif delta==0:
-    print("A equação possui apenas uma raiz real")
+    print("A equação possui uma raiz real")
     print("{:.2f}".format(raiz_unica)) 
 
 elif delta>0:
